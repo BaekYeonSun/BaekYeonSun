@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white">
